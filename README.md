@@ -65,7 +65,7 @@
 
     Horsepower rpm	5,000
 
-   Torque	664 Lb-Ft.
+    Torque	664 Lb-Ft.
 
    
 ## References 
